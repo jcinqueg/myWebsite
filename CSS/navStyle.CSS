@@ -1,0 +1,17 @@
+body {
+	background: white;
+}
+
+nav {
+	background: pink;
+	display: flex;
+	flex-flow: row, nowrap;
+	justify-content: space-around;
+}
+
+nav ul {
+	list-style-type: none;
+	display: flex;
+	flex-flow: row, nowrap;
+	justify-content: space-between;
+}

@@ -1,0 +1,17 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+}
+
+body {
+    font: normal, normal, normal, 16px/22px, Sans-serif;
+    background: rgb(233, 223, 223);
+}
+
+p, a {
+    padding: 5px;
+    border: 2px;
+    margin: 10px;
+    font-size: 1em;
+}
